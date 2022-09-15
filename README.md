@@ -3,7 +3,6 @@
 - Estudante de Sistemas para Internet
 - Atualmente estudando: Python, Go e SQL
 - Linkedin: https://www.linkedin.com/in/mgabriele26/
-- GitLab: https://gitlab.com/mgabrielef
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
