@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Gabriele Ferreira.
 
 - Estudante de Sistemas para Internet
-- Atualmente estudando: Python, Go e SQL
+- Atualmente estudando: Python e automação de testes com JS
 - Linkedin: https://www.linkedin.com/in/mgabriele26/
 
 <div align="center">
