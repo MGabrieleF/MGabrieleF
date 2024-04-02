@@ -1,8 +1,9 @@
 ### Olá! Eu sou a Gabriele Ferreira.
 
-- Estudante de Sistemas para Internet
-- Atualmente estudando: Python e automação de testes com JS
-- Linkedin: https://www.linkedin.com/in/mgabriele26/
+- Graduada em Sistemas para Internet
+- Pós-graduanda em Testes de software 
+- Atualmente estudando: Automação de testes com JS
+- Linkedin: https://www.linkedin.com/in/mgabrielef/
 
 <div align="center">
   <a href="https://github.com/mgabrielef">
