@@ -3,7 +3,6 @@
 - Graduada em Sistemas para Internet
 - Pós-graduanda em Testes de software 
 - Atualmente estudando: Automação de testes com JS
-- Linkedin: https://www.linkedin.com/in/mgabrielef/
 
 <div align="center">
   <a href="https://github.com/mgabrielef">
